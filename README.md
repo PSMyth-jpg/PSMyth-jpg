@@ -1,4 +1,5 @@
-# Hi, I'm PSMyth-jpg 👋
+![C](https://img.shields.io/badge/Language-C-blue)
+![ARMv7](https://img.shields.io/badge/Architecture-ARMv7-informational)
 
 💻 Learning C, computer architecture, and low-level programming.
 
