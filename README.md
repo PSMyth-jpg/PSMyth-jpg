@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="assets/header.svg" width="80%" alt="CPU">
+<img src="assets/header.svg" width="100%" alt="CPU">
 
 # `PSMyth's > DEV-TRACE_`
 
@@ -45,4 +45,4 @@ The goal is to create a traceable record of intellectual progress — documentin
 A learning log exploring C, ARMv7 assembly concepts, and hardware interaction through CPUlator.
 
 ---
-<img src="assets/footer.svg" width="80%" alt="CPU">
+<img src="assets/footer.svg" width="100%" alt="CPU">
