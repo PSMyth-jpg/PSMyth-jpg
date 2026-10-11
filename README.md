@@ -1,5 +1,11 @@
 <div align="left">
 
+<img src="assets/header.svg" width="80%" alt="CPU">
+<img src="assets/about.svg" width="80%" alt="CPU">
+<img src="assets/skills.svg" width="80%" alt="CPU">
+<img src="assets/gh-stats.svg" width="80%" alt="CPU">
+<img src="assets/footer.svg" width="80%" alt="CPU">
+
 # `PSMyth's > DEV-TRACE_`
 
 ![Language](https://img.shields.io/badge/LANGUAGE-C-39FF14?style=flat-square&labelColor=0D1117)
