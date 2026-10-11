@@ -1,10 +1,6 @@
 <div align="left">
 
 <img src="assets/header.svg" width="80%" alt="CPU">
-<img src="assets/about.svg" width="80%" alt="CPU">
-<img src="assets/skills.svg" width="80%" alt="CPU">
-<img src="assets/gh-stats.svg" width="80%" alt="CPU">
-<img src="assets/footer.svg" width="80%" alt="CPU">
 
 # `PSMyth's > DEV-TRACE_`
 
@@ -47,3 +43,6 @@ The goal is to create a traceable record of intellectual progress — documentin
 **[Dev-Trace ARMv7](https://github.com/CPUlator-ARMv7-DE1-SoC-System)**
 
 A learning log exploring C, ARMv7 assembly concepts, and hardware interaction through CPUlator.
+
+---
+<img src="assets/footer.svg" width="80%" alt="CPU">
