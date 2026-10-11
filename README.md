@@ -1,6 +1,6 @@
 <div align="left">
 
-# `> DEV-TRACE_`
+# `PSMyth's > DEV-TRACE_`
 
 ![Language](https://img.shields.io/badge/LANGUAGE-C-39FF14?style=flat-square&labelColor=0D1117)
 ![Architecture](https://img.shields.io/badge/ARCHITECTURE-ARMv7-39FF14?style=flat-square&labelColor=0D1117)
@@ -28,8 +28,16 @@
 
 ---
 
+## What is Dev-Trace?
+
+**Dev-Trace** is a personal documentation approach for recording the process of learning, exploring, and deepening one's understanding of a subject. It captures not only what is learned, but also the reasoning, experiments, challenges, discoveries, and insights gained along the way.
+
+The goal is to create a traceable record of intellectual progress — documenting how understanding develops over time, from initial curiosity and fundamental concepts to deeper knowledge and practical application.
+
+---
+
 ## Featured Project
 
-**[Dev-Trace](https://github.com/CPUlator-ARMv7-DE1-SoC-System)**
+**[Dev-Trace ARMv7](https://github.com/CPUlator-ARMv7-DE1-SoC-System)**
 
 A learning log exploring C, ARMv7 assembly concepts, and hardware interaction through CPUlator.
