@@ -40,7 +40,7 @@ The goal is to create a traceable record of intellectual progress — documentin
 
 ## Featured Project
 
-**[Dev-Trace ARMv7](https://github.com/CPUlator-ARMv7-DE1-SoC-System)**
+**[ARMv7 Dev-Trace](https://github.com/CPUlator-ARMv7-DE1-SoC-System)**
 
 A learning log exploring C, ARMv7 assembly concepts, and hardware interaction through CPUlator.
 
