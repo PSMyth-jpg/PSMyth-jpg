@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="assets/header.svg" width="100%" alt="CPU">
+<img src="assets/header.svg" width="100%">
 
 # `PSMyth's > DEV-TRACE_`
 
